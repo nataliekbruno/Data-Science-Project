@@ -1,0 +1,166 @@
+﻿Prompt 4: Here is an introduction to K’iche’ grammar on intransitive and transitive verb conjugations. Following this prompt, I will provide an assessment for you to complete using this information.
+
+
+# K'iche' Grammar and Verbal Morphology: ML Training Specification
+
+
+## Core Language Classification
+- Language Family: Eastern Mayan
+- Subfamily: Quichean-Mamean
+- Alignment System: Ergative-absolutive
+- Morphological Type: Head-marking
+- Primary Word Order: VOS
+
+
+## Fundamental Components
+
+
+### Pronominal System
+1. Set A (Ergative) Pronouns
+```
+Environment: Prevocalic
+1SG: w/inw
+2SG: aw
+3SG: r
+1PL: q
+2PL: iw
+3PL: k
+
+
+Environment: Preconsonantal
+1SG: in
+2SG: a
+3SG: u
+1PL: qa
+2PL: i
+3PL: ki
+```
+
+
+2. Set B (Absolutive) Pronouns
+```
+1SG: in
+2SG: at
+3SG: ∅ (null morpheme)
+1PL: oj
+2PL: ix
+3PL: e
+```
+
+
+### Aspect Markers
+```
+Incompletive: K- or Ka- (present/future/habitual)
+if: no vowel between marker and verb or first pronoun,
+then: use Ka,
+else: use K
+Completive: X- (past/completed)
+Position: Always word-initial
+```
+
+
+## Verb Classification System
+
+
+### 1. Intransitive Verbs
+- Valency: Monovalent (one argument)
+- Template: `Aspect-SetB-VerbRoot-(PFM)`
+- Phrase Final Marker (PFM): -(i)k
+- Example Set:
+```
+B'e(k) = go
+Chakun(ik) = work
+Kowin(ik) = be_able
+Wa'(ik) = eat
+Tak'i(k) = stand_up
+```
+
+
+### 2. Transitive Verbs
+- Valency: Bivalent (two arguments)
+- Template: `Aspect-SetB-SetA-VerbRoot-(PFM)`
+
+
+#### Subclassification:
+1. Derived Transitives
+```
+Properties:
+- Ends in -j
+- No phrase final marker
+- Often derived from other word classes
+
+
+Lexicon:
+B'ij = say
+Elesaj = remove
+Solij = visit
+Tzukuj = search_for
+Tz'ib'aj = write
+```
+
+
+2. Root Transitives
+```
+Properties:
+- CVC structure
+- Takes vocalic PFM (o/u)
+- Primary transitive concepts
+
+
+Lexicon:
+Il(o) = see
+K'ut(u) = teach
+Loq'(o) = buy
+To'(o) = help
+Ya'(o) = give
+```
+
+
+## Processing Rules for ML Implementation
+
+
+### Verb Construction Algorithm:
+1. Identify verb type (transitive/intransitive)
+2. Select appropriate template
+3. Insert aspect marker (K/Ka/X)
+4. Insert pronouns based on:
+   - For intransitive: Insert Set B for subject
+   - For transitive: Insert Set B for object, Set A for subject
+5. Apply morphophonological rules:
+   - Use prevocalic Set A before vowels
+   - Use preconsonantal Set A before consonants
+6. Add phrase final marker if:
+   - Verb is phrase-final AND
+   - Verb is intransitive (-ik/-k) OR root transitive (-o/-u)
+
+
+### Validation Rules:
+1. Verify verb type matches pronoun arrangement
+2. Check for valid aspect marker
+3. Ensure proper pronoun selection based on phonological environment
+4. Validate phrase final marker presence/absence
+5. Confirm morpheme order follows template
+
+
+### Error Handling:
+1. Invalid pronoun combinations
+2. Incorrect aspect marker placement
+3. Wrong template application
+4. Inappropriate phrase final marker usage
+5. Morphophonological rule violations
+
+
+## Training Considerations
+- Prioritize template adherence
+- Enforce strict morpheme ordering
+- Validate morphophonological rules
+- Check for proper argument structure
+- Verify alignment system consistency
+- Monitor phrase final marker distribution
+- Track pronoun set selection accuracy
+- Ensure aspect marker placement
+- Validate verb type classification
+- Check derivational patterns
+
+
+End of specification.

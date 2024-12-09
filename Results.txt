@@ -1,0 +1,524 @@
+﻿Descriptive Prompting Scores
+
+
+ChaptGPT : Prompt 1 
+Assessment 1
+1. 0
+2. 0
+3.1
+4.1
+5.1
+Assessment 2
+1.1
+2.1
+3.1
+4.1
+5.1
+Assessment 3
+1.1
+2.0
+3.0
+4.0
+5. 0
+Assessment 4
+1. 1
+2. 0
+3.1
+4. 1
+5.1
+Assessment 5
+1. 0
+2.0
+3.0
+4. .5
+5. 0
+
+
+ChapGPT
+Prompt 2
+Assessment 1
+1.0
+2.0
+3.0
+4.1
+5.0
+Assessment 2
+1.1
+2.0
+3.0
+4.1
+5.0
+Assessment 3
+1.0
+2.0
+3.0
+4.0
+5.0
+Assessment 4
+1.1
+2.1
+3..5
+4.1
+5.1
+Assessment 5
+1.0
+2.0
+3.0
+4.0
+5.0
+
+
+ChapGPT prompt 3
+Assessment 1
+1.  0
+2. 0
+3. 0
+4. 0
+5. 0
+Assessment 2
+1. 0
+2. 0
+3. 0
+4. 0
+5. 0
+Assessment 3
+1. 0
+2. 0
+3. 0
+4. 0
+5. 0
+Assessment 4
+1. .5
+2. 0
+3. 0
+4. .5
+5. 0
+Assessment 5
+1. 0
+2. 0
+3. 0
+4. 0
+5. 0
+Chaptgpt prompt 4
+Assessment 1
+1.0
+2.0
+3.0
+4.1
+5.0
+Assessment 2
+1.1
+2.1
+3.1
+4.1
+5.1
+Assessment 3
+1.0
+2.0
+3.0
+4.1
+5.0
+Assessment 4
+1.1
+2.0
+3.1
+4.1
+5.1
+Assessment 5
+1.0
+2.0
+3.0
+4.0
+5.0
+
+
+Claude.ai prompt 1
+Assessment 1
+1. 1
+2. 1
+3. 0
+4. 1
+5. 1
+Assessment 2
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 3
+1. .5
+2. 1
+3. 1
+4. 0
+5. 1
+Assessment 4
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 5
+1. 1
+2. 0
+3. 1
+4. 1
+5. 0
+
+
+Claude.ai prompt 2
+Assessment 1
+1. 1
+2. 1
+3. 0
+4. 1
+5. 1
+Assessment 2
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 3
+1. .5
+2. .5
+3. 1
+4. 0
+5. .5
+Assessment 4
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 5
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+
+
+Claude.ai prompt 3
+Assessment 1
+1. 1
+2. 1
+3. 0
+4. 1
+5. 0
+Assessment 2
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 3
+1. 1
+2. 1
+3. 1
+4. 0
+5. 1
+Assessment 4
+1. 1
+2. 1
+3. 0
+4. 1
+5. 1
+Assessment 5
+1. 1
+2. 0
+3. 1
+4. 0
+5. 1
+
+
+Claude.ai prompt 4
+Assessment 1
+1. 1
+2. 1
+3. 0
+4. 1
+5. 0
+Assessment 2
+1. 1
+2. 1
+3. 1
+4. 0
+5. 1
+Assessment 3
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 4
+1. 1
+2. .5
+3. 1
+4. 1
+5. 1
+Assessment 5
+1. 1
+2. 0
+3. 1
+4. 0
+5. 1
+
+
+
+
+In-context learning Claude.ai Scores: Trial 1
+Assessment 1
+1.1
+2. 1
+3.0
+4. 1
+5. 1
+Assessment 2
+1.1
+2.1
+3.1
+4.1
+5.1
+Assessment 3
+1.1
+2.1
+3.1
+4.1
+5.1
+Assessment 4
+1.1
+2.1
+3.1
+4.1
+5.1
+Assessment 5
+1.1
+2.1
+3.1
+4.1
+5.0
+
+
+ChatGPT Trial 1 Scores: 
+Assessment 1
+1.1
+2.0
+3.1
+4.0
+5.0
+Assessment 2
+1.0
+2.0
+3.0
+4.0
+5.0
+
+
+Assessment 3
+1.1
+2.0
+3.0
+4.0
+5.0
+
+
+Assessment 4
+1.1
+2.0
+3.1
+4.1
+5.0
+
+
+Assessment 5
+1.0
+2.0
+3.0
+4.0
+5.0
+
+
+Claude.ai trial 2
+Assessment 1:
+1. 0
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 2:
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 3
+1. .5
+2. .5
+3. 1
+4. 1
+5. .5
+Assessment 4
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 5
+1. 1
+2. 1
+3. 1
+4. 1
+5. 0
+
+
+ChatGPT trial 2 in-context learning 
+Assessment 1
+1. 0
+2. 0
+3. 1
+4. 1
+5. 0
+Assessment 2
+1. 1
+2. 1
+3. 1
+4. 1
+5. 1
+Assessment 3
+1. 0
+2. 1
+3. 0
+4. 1
+5. .5
+Assessment 4
+1. 1
+2. 0
+3. 0
+4. 1
+5. 1
+Assessment 5
+1. 0
+2. 0
+3. 0
+4. 0
+5. 0
+
+
+
+
+
+
+Receptivity 
+
+
+Claude.ai: Descriptive prompting 
+Prompt 1
+Assessment 2: Did not try to translate or request a definition 
+Assessment 4:
+1. Requested translation
+2. Requested translation
+3. Verb was provided in prompt 1
+4. Requested translation
+5. Requested translation
+Prompt 2
+Assessment 2: Did not try to translate or request a definition 
+Assessment 4:
+1. Correct verb translation 
+2. Correct verb translated
+3. Requested translation (was not provided in prompt 2)
+4. Correct verb translation
+5. Correct verb translation
+Prompt 3
+Assessment 2: Did not try to translate or request a definition
+Assessment 4:
+1. Requested translation
+2. Requested translation
+3. Requested translation
+4. Requested translation
+5. Requested translation
+Prompt 4
+Assessment 2: Did not request a translation, but included a translation note about recognizing certain words 
+Assessment 4:
+1. Requested translation
+2. Requested translation
+3. Requested translation
+4. Requested translation
+5. Requested translation
+
+
+Claude.ai: In-context learning
+Trial 1
+Assessment 2: Did not try to translate or request a definition
+Assessment 4:
+1. Requested translation
+2. Requested translation
+3. Requested translation
+4. Requested translation
+5. Requested translation
+Trial 2
+Assessment 2: Did not try to translate or request a definition
+Assessment 4: 
+1. Requested translation
+2. Requested translation
+3. Requested translation
+4. Requested translation
+5. Requested translation
+
+
+ChatGPT: Descriptive Prompting
+Prompt 1
+Assessment 2: Did not try to translate or request a definition
+Assessment 4:
+1. Incorrect verb translation
+2. Correct verb translation
+3. Verb was provided in Prompt 1
+4. Incorrect verb translation
+5. Correct verb translation
+Prompt 2
+Assessment 2: Did not try to translate or request a definition
+Assessment 4:
+1. Incorrect verb translation
+2. Correct verb translation
+3. Incorrect verb translation
+4. Incorrect verb translation
+5. Correct verb translation
+Prompt 3
+Assessment 2: Did not try to translate or request a definition
+Assessment 4:
+1. Correct verb translation 
+2. Correct verb translation 
+3. Incorrect verb translation (with doubt)
+4. Incorrect verb translation (with doubt)
+5. Correct verb translation (with doubt)
+Prompt 4
+Assessment 2: Did not try to translate or request a definition
+Assessment 4:
+1. Correct verb translation 
+2. Correct verb translation 
+3. Incorrect verb translation (with doubt)
+4. Correct verb translation
+5. Correct verb translation 
+
+
+ChatGPT: Incontext Learning 
+Trial 1
+Assessment 2: Did not try to translate or request a definition
+Assessment 4:
+1. Incorrect verb translation
+2. Correct verb translation 
+3. Incorrect verb translation 
+4. Incorrect verb translation 
+5. Correct verb translation 
+Trial 2
+Assessment 2: 
+1. Incorrect verb translation 
+2. Correct full translation 
+3. Correct full translation 
+4. Correct verb translation 
+5. Correct verb translation 
+Assessment 4:
+1. Incorrect verb translation 
+2. Correct verb translation 
+3. Requested translation 
+4. Incorrect verb translation 
+5. Correct verb translation

@@ -1,0 +1,60 @@
+﻿Prompt 3
+ I am a college student that is studying K’iche’ Mayan language. I started studying K’iche’ this year. I want to be able to check my answers using AI and assess my accuracy on homework questions. Here is some information about K’iche’ language and the basic grammatical structures for conjugating verbs from my class. 
+
+
+Following this prompt, I will provide an assessment for you to complete using this information. 
+
+
+In K’iche’, there are two main types of verbs: Intransitive and Transitive verbs. It is important to be able to distinguish between the two, because they are conjugated with different pronouns. 
+First, here are the two main pronoun types that are used for basic verb conjugations. There are two sets of pronouns that are used: Set A and Set B pronouns. 
+
+
+Set A
+* Set A pronouns have both prevocalic and preconsonantal forms. This is because K’iche’ does not typically put two vowels next to one another. Set B does not have two different forms, and is used regardless of the verb’s first letter, except in certain cases. 
+* K’iche’ pronouns are not gendered, and refer to the person’s position. 1st person is “I/me”, 2nd person is “you”, 3rd person is “he/she/it”, 1st person plural is “we/us”, 2nd person plural is “you all”, and 3rd person plural is “they/them”. 
+* Set A Prevocalic pronouns: 1st person: w or inw, 2nd person: aw, 3rd person: r, 1st person plural: q, 2nd person plural: iw, 3rd person plural: k. 
+* Set A Preconsonantal pronouns: 1st person: in, 2nd person: a, 3rd person: u, 1st person plural: qa, 2nd person plural: i, 3rd person plural: ki
+* Set B pronouns: 1st person: in, 2nd person: at, 3rd person: no pronoun, 1st person plural: oj, 2nd person plural: ix, 3rd person plural: e. 
+Aspect
+* There are two aspect markers for verbs, incomplete or complete. This is similar to the past and present tenses in English, but refer more to whether or not the action itself is a finished action or not. 
+* The aspect for incomplete verbs (present tense) is K or Ka. K is used in most cases. When there is a lack of vowel between the aspect marker (k) and verb or pronoun, Ka is used instead. More specifically, ‘Ka’ is used when there is no vowel between the aspect and first letter of the verb.
+* The aspect for complete verbs (past tense) is X
+* The aspect goes in the beginning of the conjugated verb. 
+Construction of Intransitive verbs
+* (1) Aspect + (2) Set B pronoun + (3) Verb (3a) (phrase final marker)
+   * The first (1) space indicates the aspect of the action, and is denoted by K, Ka, or X. 
+   * The second (2) space subject indicates the subject of the verb using the Set B pronouns.
+   * Intransitive verbs have only one space for a grammatical subject. Intransitive verbs mark 
+   * Intransitive verbs only use Set B pronouns
+   * The third (3) space is where the intransitive verb is located.
+   * The last (3a) element, the phrase final marker, is a suffix that is added to an intransitive verb when it is the last word in a phrase. This indicates that the topic of the phrase is finished. 
+   * Phrase final markers for Intransitive verbs are denoted by (ik) or (k) at the end of an unconjugated verb. They are added to a conjugated verb when it is the last element of the phrase. 
+Intransitive verb examples:
+* B’e(k) = to go
+* Chakun(ik) = to work
+* Kowin(ik) = to be able
+* Wa’(ik) = to eat 
+* Tak’i(k) = to stand (up)
+Construction of Transitive verbs 
+* (1) Aspect + (2) Set B pronoun + (3) Set A pronoun + (4) Verb (4a Root transitive phrase final marker). 
+   * The first (1) space indicates the aspect of the action, and is denoted by K, Ka, or X. 
+   * The second (2) space indicates the object of the verb, or who is receiving the action of the verb. This is denoted by Set B pronouns.
+   * For regular transitive verbs, Set B always takes the first pronoun space. Set A always takes the second pronoun space.  
+   * The third (3) space indicates the subject of the verb, or who is doing the action. This is denoted with Set A pronouns. 
+   * The fourth (4) space is where the transitive verb is located. 
+   * The last element (4a) is the phrase final marker for root transitive verbs that are the last element of a phrase. Root transitive verbs are a type of transitive verb, which is explained in more detail below. 
+* There are two types of transitive verbs: Derived transitive verbs and root transitive verbs. Both derived and root transitive verbs are conjugated the same way, but they look slightly different. 
+   * Derived transitive verbs typically end with a “j”. Derived transitive verbs do not have phrase final markers. 
+   * Root transitive verbs are typically shorter and follow a CVC (consonant vowel consonant) pattern. They do have phrase final markers, which are typically vowels. This is how we can distinguish between derived transitive verbs, root transitive verbs, and intransitive verbs. 
+Derived transitive verb vocabulary:
+* B’ij = to say something 
+* Elesaj = to remove someone/something
+* Solij = to visit someone/something
+* Tzukuj = to look for someone/something
+* Tz’ib’aj = to write something
+Root transitive verb vocabulary:
+* Il(o) = to see someone/something
+* K’ut(u) = to teach someone
+* Loq’(o) = to buy something 
+* To’(o) = to help someone
+* Ya’(o) =  to give something

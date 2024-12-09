@@ -1,0 +1,117 @@
+K’iche’ Mayan Language: Introduction to Verb Conjugation 
+
+
+Verbs in K’iche’
+The K'iche' language has two main types of verbs: intransitive and transitive. The language uses two sets of pronouns (Set A and Set B) to conjugate these verbs. These pronouns are not gendered, and refer to the position of grammatical subject and object.
+
+
+Types of Verbs: Transitive and Intransitive verbs
+In K’iche’ Mayan language, there are two main categories of verbs: Transitive and Intransitive verbs. 
+* Transitive verbs are verbs that have a subject and an object: the subject is the one “doing” the action, while the “object” is the one receiving the action. 
+* Intransitive verbs are verbs that do not have an object incorporated within verb construction. They only have one pronoun space for the subject, or person doing the action. 
+
+
+Verbs incorporate the subject and object differently in accordance to transitivity or intransitivity. 
+There are two sets of pronouns to complete this type of verb conjugation: Set A and Set B. 
+
+
+Pronouns in K’iche’
+Set A pronouns are Ergative pronouns
+Set B pronouns: Absolutive pronouns
+* Transitive verbs incorporate both Set A and Set B pronouns. For transitive verbs, Set B indicates the object, or the receiver of the action. Set A indicates the subject, or who is doing the action. 
+* Intransitive verbs only include Set B pronouns. There is no direct object, so the absolutive pronouns indicate who is doing the action instead of Set A. For intransitive verbs, Set B indicates the subject, or who is doing the action.
+
+
+Another thing to consider when conjugating verbs is whether or not it is preconsonantal or prevocalic. For transitive verbs, this is especially important because the subject of the verb is expressed with Set A. The pronouns for Set A change depending on whether or not a verb begins with a vowel or a consonant. These are the different Set A and Set B pronouns for each position: 
+
+
+Set A pronouns        
+Preconsonantal pronouns:
+* 1st person, “I/me” = -in-
+* 2nd person, “you” = -a-
+* 3rd person, “he/she/its = -u-
+* 1st person plural, “We/us” = -qa-
+* 2nd person plural “You all” = -i-
+* 3rd person plural, “them/they” = -ki-
+
+
+Prevocalic pronouns:
+* 1st person, “I/me” = -in/inw-
+* 2nd person, “you” = -aw-
+* 3rd person, “he/she/its = -r-
+* 1st person plural, “We/us” = -q-
+* 2nd person plural “You all” = -iw-
+* 3rd person plural, “them/they” = -k-
+
+
+Set B pronouns
+* 1st person, “I/me” = -in-
+* 2nd person, “you” = -at-
+* 3rd person, “he/she/its = -∅-
+* 1st person plural, “We/us” = -oj-
+* 2nd person plural “You all” = -ix-
+* 3rd person plural, “them/they” = -e-
+
+
+Aspect Markers
+In K’iche’, actions are not necessarily described as being in past, present or future tenses. Instead, Verbs are denoted with an Aspect Marker that indicates whether or not the action is complete or incomplete. While the aspect marks how the action is/has happened in a specific way, this can be roughly translated to English verbs in the past and present tense. 
+
+
+Actions in K'iche' are marked as either complete (past) using 'X' or incomplete (present) using 'K' or 'Ka'. ‘Ka’ is used when there is no vowel between the aspect and first letter of the verb. This is known as the Aspect marker. These markers always appear at the start of the conjugated verb.
+
+
+Aspect Markers
+* Present (prevocalic) = K-
+* Present (preconsonantal) = Ka-
+* Past (only one aspect) = X
+
+
+Phrase Final markers
+Some verbs utilize an additional suffix when the verb is the final or only element in the phrase. This is called a phrase final marker, and its presence on intransitive verbs or root transitive verbs indicates the end of the clause. This is a suffix that indicates the verb as the final element, and is indicated with () at the end of the unconjugated verb. In addition, when two verbs are used next to each other, the first verb will have a phrase final marker, despite having a second word that follows. 
+
+
+Phrase final marker examples:
+* Chakun(ik) = “to work”
+* “I worked” → Xinchakunik
+* “I work at school” → Kinchakun pa le tijob’al 
+* Loq(o) = “to buy something”
+* “I bought it” → Xinloq’o
+* “I buy the shirt” → Kinloq le kamix
+
+
+Verb Conjugations
+* Intransitive verb formula: Aspect (K/Ka) + Set B pronoun (Object) + Verb + (Phrase Final marker). 
+* Transitive verb formal: Aspect (K/Ka) + Set B pronoun (Object) + Set A pronoun (Subject) + Verb (Root Transitive Phrase Final Marker)
+
+
+Intransitive verbs 
+* B’e(k) = “to go”
+* Chakun(ik) = “to work”
+* Kowin(ik) = “to be able”
+* Tak’i(k) = “to stand up”
+Derived transitive verbs
+* B’ij = “to say something”
+* Elesaj = “to remove something”
+* Solij = “to visit something”
+* Tz’ib’aj = “to write something”
+* Tzukuj = “to look for something”
+Root transitive verbs
+* Il(o) = “to see something”
+* K’ut(u) = “to teach something”
+* Loq’(o) = “to buy something”
+* Ta = “to hear something”
+* To’(o) = “to help someone”
+* Ya’(o) = “to give something”
+
+
+Example conjugations:
+* “We buy it” → Ka-∅-qa-loq’-o → Kaqaloq’o
+* “I wrote it” → X-∅-in-tz’ib’aj → Xintz’ib’aj
+* “You all visit him” → K-∅-i-solij → Kisolij 
+* “She is able” → Ka-∅-kowin-ik → Kakowinik
+
+
+Important rules and irregularities:
+* K’iche’ refrains from putting two vowels next to each other. When Set A and Set B pronouns put vowels next to each other, one vowel will turn into a glottal stop, ', which stands in for a consonant. The first vowel will turn into a glottal stop and shift to after the second vowel. Example: “He visited them” → X - e - u - solij → Xu’solij
+   * There is an exception with 3rd person Set B plural and 1st person Set A, where Set B fuses with Set A.  Example: “I visit them” → K - e - in - solij→ Kensolij.
+* When the phrase does not have a vowel in between the aspect marker K- and the next element (pronoun or verb), K’iche’ will put Ka- instead of K- to prevent two consonants from being put next to one another. Example: “They write it” → Ka-∅-ki-tz’ib’aj → Kakitz’ib’aj.

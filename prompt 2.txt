@@ -1,0 +1,60 @@
+﻿Prompt 2: Here is an introduction to K’iche’ grammar on intransitive and transitive verb conjugations. Following this prompt, I will provide an assessment for you to complete using this information. 
+
+
+K'iche' Verb Basics
+K'iche' has two main verb types:
+- Intransitive verbs (have one subject)
+- Transitive verbs (have both subject and object)
+
+
+Pronouns
+K'iche' uses two sets of pronouns (Set A and Set B) that aren’t gendered, but refer to the subject and object position:
+
+
+Set A (used for subject of transitive verbs):
+- Has two forms: prevocalic (before vowels) and preconsonantal (before consonants)
+- Prevocalic: w/inw (I), aw (you), r (he/she/it), q (we), iw (you all), k (they)
+- Preconsonantal: in (I), a (you), u (he/she/it), qa (we), i (you all), ki (they)
+
+
+Set B (used for subjects of intransitive verbs and objects of transitive verbs):
+- Single form: in (I), at (you), [no pronoun] (he/she/it), oj (we), ix (you all), e (they)
+
+
+Aspect (Tense)
+- Incomplete (present): K or Ka (when no vowel is present between the aspect marker and first consonant of either Set A or the verb). 
+- Complete (past): X
+- Placed at the beginning of conjugated verbs
+
+
+Vowel Rule: When pronouns would create two adjacent vowels:
+- The first vowel becomes a glottal stop (') and moves after the second vowel
+- Special case: When "e" (they/them) meets "in" (I/my), they combine to form "en"
+Examples:
+K-e-in-tzukuj → Kentzukuj ("I look for them")
+X-e-u-k'ut(u) → Xu'k'utu ("He taught them")
+This avoids having two vowels next to each other in pronunciation.
+
+
+Verb Construction
+Intransitive Verbs:
+1. Aspect + Set B pronoun (subject) + Verb + (phrase final marker)
+- Phrase final markers: (ik) or (k)
+- Examples: b'e(k) (to go), chakun(ik) (to work), kowin(ik) (to be able), wa'(ik) (to eat), tak'i(k) (to stand up). 
+
+
+Transitive Verbs:
+1. Aspect + Set B pronoun (object) + Set A pronoun (subject) + Verb + (phrase final marker for root transitives)
+
+
+Two types of transitive verbs:
+1. Derived Transitive:
+   - End in "j"
+   - No phrase final markers
+   - Examples: b'ij (to say), tzukuj (to look for), elesaj (to remove), solij (to visit), tz'ib'aj (to write something). 
+
+
+2. Root Transitive:
+   - Follow CVC pattern
+   - Have vowel phrase final markers
+   - Examples: il(o) (to see), k'ut(u) (to teach something), loq'(o) (to buy something), to'(o) (to help), ya'(o) (to give)

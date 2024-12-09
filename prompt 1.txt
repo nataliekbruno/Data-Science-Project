@@ -1,0 +1,49 @@
+﻿Prompt 1: Here is an introduction to K’iche’ grammar on intransitive and transitive verb conjugations. Following this prompt, I will provide an assessment for you to complete using this information. 
+
+
+The K'iche' language has two main types of verbs: intransitive and transitive. The language uses two sets of pronouns (Set A and Set B) to conjugate these verbs. These pronouns are not gendered, and refer to the position of grammatical subject and object.
+
+
+Set A pronouns are used for the grammatical subject of transitive verbs and have two forms: one before vowels and one before consonants. Set B pronouns are simpler, with just one form used for the grammatical subject of intransitive verbs and grammatical object of transitive verbs.
+
+
+Set A Prevocalic pronouns: 1st person: w or inw, 2nd person: aw, 3rd person: r, 1st person plural: q, 2nd person plural: iw, 3rd person plural: k. 
+Set A Preconsonantal pronouns: 1st person: in, 2nd person: a, 3rd person: u, 1st person plural: qa, 2nd person plural: i, 3rd person plural: ki
+Set B pronouns: 1st person: in, 2nd person: at, 3rd person: ∅ (no pronoun), 1st person plural: oj, 2nd person plural: ix, 3rd person plural: e. 
+
+
+Actions in K'iche' are marked as either complete (past) using 'X' or incomplete (present) using 'K' or 'Ka'. ‘Ka’ is used when there is no vowel between the aspect and first letter of the verb. This is known as the Aspect marker. These markers always appear at the start of the conjugated verb.
+
+
+When an intransitive verb or a root transitive verb is at the end of a phrase, or there are no words following the conjugated verb, they are marked with a final phrase marker. This is a suffix that indicates the verb as the final element, and is indicated with () at the end of the unconjugated verb. In addition, when two verbs are used next to each other, the first verb will have a phrase final marker, despite having a second word that follows. Example: Kinkowinik kintij nuwa = I am able to eat my food. Kinkowinik kintijo = I am able to eat it. 
+
+
+Intransitive verbs follow this pattern: Aspect + Set B pronoun + verb (final phrase marker). . Common intransitive verbs include b'e(k) = to go, chakun(ik) = to work, kowin(ik) = to be able, wa'(ik) = to eat, and tak'i(k) = to stand up.
+
+
+Transitive verbs are constructed as: aspect + Set B pronoun + Set A pronoun + verb (root transitive final phrase marker). There are two types of transitive verbs. Derived transitive verbs end in "j" and include b'ij =to say, elesaj = to remove, solij = to visit, tzukuj = to look for, and tz'ib'aj = to write. Root transitive verbs are shorter and include il(o) = to see, k'ut(u) = to teach something, loq'(o) = to buy, to'(o) = to help, and ya'(o) = to give.
+
+
+Irregularities:
+1. K’iche’ refrains from putting two vowels next to each other. When Set A and Set B pronouns put vowels next to each other, one vowel will turn into a glottal stop, ', which takes the form of a consonant. The first vowel will turn into a glottal stop and shift to after the second vowel. There is an exception with 3rd person Set B plural and 1st person Set A, where Set B fuses with Set A.  Examples: K - e - in - tzukuj → Kentzukuj. X - e - u- k'ut(u)→ Xu'k'utu.
+2. When an incomplete verb does not have a vowel in between aspect marker K and a verb that begins with a consonant, K’iche’ will use Ka instead of K to prevent two consonants from being put next to one another. 
+
+
+There are several irregular verbs in K’iche’. This is an example of an irregular verb:
+Aj = to want
+Kawaj = I want it
+Kawaj = You want it
+Karaj = He wants it 
+Kaqaj = We want it
+Kiwaj = You all want it
+Kakaj = They want it
+
+
+
+Regular conjugated verb examples:
+Incomplete intransitive verb: I go → K - in - b’e - (k) → Kinb’ek. 
+Complete intransitive verb: He worked → X - ∅ - chakun - (ik) → Xchakunik
+Incomplete derived transitive verb: I say it → K - ∅ - in - b’ij → Kinb’ij
+Complete derived transitive verb: They looked for us → X - oj - ki - tzukuj → Xojkitzukuj 
+Incomplete root transitive verb: We buy it → K - ∅ - qa - loq’ - (o) → Kaqaloq’o
+Complete root transitive verb: You helped me → X - in - a - to’ - (o) → Xinato’o
