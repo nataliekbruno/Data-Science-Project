@@ -171,9 +171,30 @@ ChatGPT
 This project revealed that AI models such as Claude or ChatGPT do have the ability to learn and apply language rules that they weren't initially trained on.  
 
 ## Model Card
-Claude 3.5 Sonnet
+1. Claude 3.5 Sonnet, released by Anthropic in October 2024 as part of the Claude 3 model family. claude.ai
 
+2. ChatGPT 4o, released by OpenAI in 2024. chat.openai.com
 
+## Resource links
+
+1. Using AI in educational and writing context:
+Albadarin, Y., Saqr, M., Pope, N. et al. A systematic literature review of empirical research on ChatGPT in education. Discov Educ 3, 60 (2024). https://doi.org/10.1007/s44217-024-00138-2
+
+2. AI case studies: Translation abilities
+
+Ferrag, F., & Bentounsi, I. A. (2024). The use of artificial intelligence in academic translation tasks: Case study of Chat GPT, Claude, and Gemini. Ziglôbitha, Revue des Arts, Linguistique, Littérature & Civilisations, 2(11), 173–192. https://doi.org/10.60632/ziglobitha.n011.11.vol.2.2024
+
+3. Assesses Claude's performance on low resource languages 
+
+Enis, M., & Hopkins, M. (2024). From LLM to NMT: Advancing Low-Resource Machine Translation with Claude. arXiv. https://doi.org/10.48550/arXiv.2404.13813
+
+4. Descriptions of Claude's different abilities and models
+
+https://www.machinetranslation.com/blog/claude-ai-3-5?utm_source=chatgpt.com 
+
+5. Assessing ChatGPT's performance with descriptive prompting 
+
+He, S. (2024). Prompting ChatGPT for Translation: A Comparative Analysis of Translation Brief and Persona Prompts. Proceedings of the 25th Annual Conference of the European Association for Machine Translation (Volume 1), 316–326. European Association for Machine Translation (EAMT). https://aclanthology.org/2024.eamt-1.27
 
 
 
