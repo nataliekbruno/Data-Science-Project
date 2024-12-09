@@ -1,4 +1,4 @@
-# Data-Science-Project
+# Indigenous Language Learning Abilities of LLMs
 
 ## Overview
 
