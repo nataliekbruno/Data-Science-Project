@@ -31,6 +31,11 @@ Following this analysis, I will also assess the performance of each model to det
 
 I will be evaluating the performance of these models using datasets and assessments that I have created. I am providing material that is specific to the regional dialect of Nawalja’, which is less accessible than other dialects of K’iche’ throughout the Western Highlands of Guatemala. 
 
+- Data with descriptive prompting (copy and paste)
+- Data set for in-context learning (plain text file)
+- 4 Assessments with five questions each, pasted into the chat
+- Correct answers to assessments, pasted into the chat
+
 ### Procedure 
 
 Process: 
