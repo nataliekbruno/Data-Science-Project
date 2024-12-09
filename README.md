@@ -2,6 +2,8 @@
 
 ## Overview
 
+Are LLMs able to learn languages that they have not been trained on when provided with limited data?  
+
 K’iche’ is an indigenous Mayan language spoken by ~2 million speakers in the highlands of Guatemala and parts of Mexico. K’iche’ is the second most spoken language in Guatemala after Spanish. It originates from an ancestral Proto-Mayan language about 4,000 years ago, and is popularly known from an ancient Maya document, the Popol Vuh. 
 
 ![Idiomasmap_Guatemala svg](https://github.com/user-attachments/assets/7b0f3ac3-4519-43b8-ac29-fa0bfeccb861)
@@ -16,18 +18,20 @@ Another issue regarding access to K’iche’ grammar and vocabulary lies in the
 
 Picture of Nawalja', "The Birthplace of Water"
 
+I address this question by investigating the capabilities of AI models to learn the indigenous language K'iche' without prior training or extensive resources. 
 
-### Data and Evaluation
-
-I will be evaluating the performance of these models using datasets and assessments that I have created. I am providing material that is specific to the regional dialect of Nawalja’, which is less accessible than other dialects of K’iche’ throughout the Western Highlands of Guatemala. 
 
 # Approach 
 
-I address this problem by investigating the capabilities of AI models to learn indigenous language without prior training or extensive resources. The learning material data will be provided in two different ways to determine which approach yields better performance of the models. I will input data through descriptive prompting and in-context learning to determine 1) which type of data allows the models to score more accurately on assessments, 2) which type of data LLMs are more receptive of, and 3) which type of data suggests model learning. 
+The learning material data will be provided in two different ways to determine which approach yields better performance of the models. I will input data through descriptive prompting and in-context learning to determine 1) which type of data allows the models to score more accurately on assessments, 2) which type of data LLMs are more receptive of, and 3) which type of data suggests model learning. 
 
 Following this analysis, I will also assess the performance of each model to determine which is better at learning K'iche'. 
 
 ## Data
+
+I will be evaluating the performance of these models using datasets and assessments that I have created. I am providing material that is specific to the regional dialect of Nawalja’, which is less accessible than other dialects of K’iche’ throughout the Western Highlands of Guatemala. 
+
+### Types of Data: 
 
 1. Descriptive Prompting: Four variations of descriptive prompting. Some variations are more complex and detailed, while some only provide the basic foundations for grammatical concepts in K'iche'.
 - Prompt 1: Detail oriented. Paragraph form. Provides the most examples. 
