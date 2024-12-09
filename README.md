@@ -31,9 +31,21 @@ Following this analysis, I will also assess the performance of each model to det
 
 I will be evaluating the performance of these models using datasets and assessments that I have created. I am providing material that is specific to the regional dialect of Nawalja’, which is less accessible than other dialects of K’iche’ throughout the Western Highlands of Guatemala. 
 
-### Types of Data: 
+### Procedure 
+
+Process: 
+
+A. Provide prompt or data set
+B. After the model have reviewed the prompt, provide Assessment 1. 
+C. Provide correct answers
+D. Provide next Assessment
+E. Continue this process until all assessments have been answered and corrections have been provided. 
+F. Repeat this process with the next prompt or data set in a new chat
+
+#### Prompts and data sets
 
 1. Descriptive Prompting: Four variations of descriptive prompting. Some variations are more complex and detailed, while some only provide the basic foundations for grammatical concepts in K'iche'.
+
 - Prompt 1: Detail oriented. Paragraph form. Provides the most examples. 
 - Prompt 2: Most concise. Bullet points, more labeled section headings. Emphasis on different rules. 
 - Prompt 3: Most explanatory. Written with more natural language. Contains more descriptive structural detail: Numbered steps for verb construction and explanation of exceptions. 
@@ -98,8 +110,12 @@ Assessments:
 
 ## 3. Learning abilities 
 
-K'iche' translation accuracy for Assessments 6-8, with prior assessments and correct answers vs. without prior assessments and answers
+K'iche' translation accuracy for Assessments 6-8 with in-context learning. 
 
+- With context: Had access to prior assessments and correct answers
+- Without context: Only had access to in-context data set
+
+Claude Assessments 6-8 accuracy 
 <img width="561" alt="Screenshot 2024-12-09 at 1 24 13 PM" src="https://github.com/user-attachments/assets/feafcdc5-e2ed-42bc-825e-bc7b2609021d">
 
 Assessment 6: Both scored 100% accuracy
