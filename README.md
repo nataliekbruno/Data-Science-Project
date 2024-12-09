@@ -2,7 +2,7 @@
 
 ## Overview
 
-K’iche’ is an indigenous Mayan language spoken by ~2 million speakers in the highlands of Guatemala and parts of Mexico. K’iche’ is the second most spoken language in Guatemala after Spanish. It originates from an ancestral Proto-Mayan language about 4,000 years ago, and is best known from the Popol Vuh. 
+K’iche’ is an indigenous Mayan language spoken by ~2 million speakers in the highlands of Guatemala and parts of Mexico. K’iche’ is the second most spoken language in Guatemala after Spanish. It originates from an ancestral Proto-Mayan language about 4,000 years ago, and is popularly known from an ancient Maya document, the Popol Vuh. 
 
 ![Idiomasmap_Guatemala svg](https://github.com/user-attachments/assets/7b0f3ac3-4519-43b8-ac29-fa0bfeccb861)
 
@@ -15,18 +15,18 @@ There is very little accessible data for K’iche’ language. One issue regardi
 Picture of Nawalja', "The Birthplace of Water"
 
 
-K’iche’ has a limited amount of learning materials and a lack of online presence. In addition, K’iche’ resources accessible to the public and open source AI are largely unrevised, incorrect, or outdated. Much of the published work on K’iche’ is written for a linguistic audience, and does not convey grammatical rules or translations to a general audience. This poses an issue for large language models, such as ChatGPT and Claude ai, because they cannot be sufficiently trained on K’iche’ language. Accessible information is either unreliable, or does not provide enough data to train NLPs. 
+K’iche’ has a limited amount of learning materials and a lack of online presence. In addition, K’iche’ resources accessible to the public and open source AI are largely unrevised, incorrect, or outdated. This poses an issue for large language models, such as ChatGPT and Claude ai, because they cannot be sufficiently trained on K’iche’ language. Accessible information is either unreliable, or does not provide enough data to train LLMs. 
  
 
 ### Data and Evaluation
 
-I will be evaluating the performance of these models using datasets and assessments that I have created. I have been studying K’iche’ as a part of my graduate research, and have been assessed as a high intermediate speaker. I am providing material that is specific to the regional dialect of Nawalja’, which is more inaccessible than other dialects of K’iche’ throughout the Western Highlands of Guatemala. 
+I will be evaluating the performance of these models using datasets and assessments that I have created. I am providing material that is specific to the regional dialect of Nawalja’, which is less accessible than other dialects of K’iche’ throughout the Western Highlands of Guatemala. 
 
 # Approach 
 
 I address this problem by investigating the capabilities of AI models to learn indigenous language without prior training. The learning material data will be provided in two different ways to determine which approach yields better performance of the models. I will input data through descriptive prompting or in-context learning to determine 1) which type of data allows the models to score more accurately on assessments, 2) which type of data LLMs are more receptive of, and 3) which type of data suggests model learning.   
 
-### Data
+## Data
 
 1. Descriptive Prompting: Four variations of descriptive prompting. Some variations are more complex and detailed, while some only provide the basic foundations for grammatical concepts in K'iche'.
 - Prompt 1: Detail oriented. Paragraph form. Provides the most examples. 
@@ -38,17 +38,17 @@ I address this problem by investigating the capabilities of AI models to learn i
 - Trial 1: Slightly less descriptive, contained tables to demonstrate verb conjugations and exceptions
 - Trial 2: Detail oriented, utilized explanatory paragraphs to demonstrate exceptions and conjugations. 
 
-### Forms of evaluation 
+## Forms of evaluation 
 
-1. Accuracy
+### 1. Accuracy
 - Number of accurate responses for each question across prompts 
    
-2. Receptivity
+### 2. Receptivity
 - Assessments 2 and 4 include vocabulary that is not give to the model in the inital prompt. How does the model respond to this, and how does this effect inital accuracy?
 - Assessment 2 prompt: "Conjugate these verbs into 1st person with the non-completive aspect. Determine whether or not the phrase final marker (ik) is needed. You are not required to translate words, but you can if you recognize them."
 - Assessment 4 prompt: "First identify each verb within the conjugated phrase. Then, translate the K’iche’ phrases into English. If you do not recognize a verb, ask for the translation."
 
-3. Learning ability
+### 3. Learning ability
 - Determine whether or not accuracy increases without corrections
 - Determine whether or not accuracy increases with corrections
 - Give a final assessment after giving the model correct answers
@@ -84,16 +84,16 @@ I address this problem by investigating the capabilities of AI models to learn i
   
 # Evaluation 
 
-### Performance trends  
+## Performance trends across descriptive prompting: Prompts 
 
-Descriptive Prompting: Claude.ai
+Descriptive Prompting: Claude
 
-- Claude.ai consistently outperformed ChatGPT across all prompts
+- Claude consistently outperformed ChatGPT across all prompts
 - Rarely missed Q1 across all assessments and prompts
 - Assessment 3 was the most challenging across all prompts
 
 Prompt-Specific Patterns:
-- Claude.ai maintained an average accuracy above 60% for all prompt types
+- Claude maintained an average accuracy above 60% for all prompt types
 - Prompt 2 has a slightly higher accuracy
 - Prompt 3 had a slightly lower accuracy rate than the other prompts
 
@@ -108,9 +108,17 @@ Prompt-Specific Patterns
 - Prompt 3: Nearly complete failure across all assessments
 - Prompt 4: Most polarized (either complete success or complete failure)
 
-### Comparison 
+In-context learning: Claude
+- Performed slightly better with Trial 1 data set
+- Slightly less variability in responses
 
-1. Accuracy
+In-context learning: ChatGPT
+- Performed slightly better with Trial 2
+- Both trials showed inconsistent results and complete failure on entire assessments 
+
+## Comparison 
+
+### 1. Accuracy
 
 Descriptive Prompting
 
@@ -120,7 +128,8 @@ Descriptive Prompting
 - ChatGPT had a greater variance between assessments within same prompt in comparison to Claude
 - ChatGPT had a more dramatic performance differences between prompts in comparison to Claude
 
-In-Context Learning 
+In-context Learning 
+
 Trial 1: Claude.ai
 - Claude.ai showed exceptional performance:
 - Near-perfect scores across all assessments
@@ -142,7 +151,7 @@ Trial 2: ChatGPT
 - Significant decline in final assessment
 - Inconsistent pattern of improvement
 
-2. Response to lack of information
+### 2. Response to lack of information
    
 Claude.ai
 
@@ -156,8 +165,29 @@ ChatGPT
 - Only requested one translation with in-context learning
 - Variable in behavior and accuracy
 
-3. Learning potential
-- Claude.ai projects for in-context learning 
+### 3. Learning potential
+- Claude projects for in-context learning with previous assessments 
+Assessment 6: 100% accuracy
+Assessment 7: 80% accuracy
+Assessment 7 revision with provided vocab: 90% accuracy
+Assessment 8: 80% accuracy 
+
+## Demonstration: Claude 
+
+Assessment 9: Translate into K'iche'
+1. I am able to talk to her
+2. I am making it
+3. We are giving you the huipil 
+4. The men removed the cat
+5. He wrote his book
+
+Answers 
+1. Kinkowinik kinch’ab’ej. 
+2. Kinb’ano
+3. Katqaya’ le po’t
+4. Xkelesaj le me’s le achijab’
+5. Xutz’ib’aj awuj. 
+
 
 ## Overall
 - Claude performed marginally better with in-context learning. There was less variability in the accuracy of scores.
@@ -169,6 +199,11 @@ ChatGPT
 ## Impact
 
 This project revealed that AI models such as Claude or ChatGPT do have the ability to learn and apply language rules that they weren't initially trained on.  
+
+### Next Steps
+
+- More-indepth investigation of descriptive prompt and model performance: How can we optimize descriptive prompts for AI in order to produce more accurate results?
+- Assess Claude or ChatGPT's performance with increased rounds of questioning 
 
 ## Model Card
 1. Claude 3.5 Sonnet, released by Anthropic in October 2024 as part of the Claude 3 model family. claude.ai
